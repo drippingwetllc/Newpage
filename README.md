@@ -208,6 +208,3 @@
     </script>
 </body>
 </html>
-```eof
-
-The site now clearly highlights your full range of services, using a touch of green to visually connect the **Lawn & Yard Care** and **Exterior Cleaning** (including **pressure washing** and **window cleaning**) to the classic blue of your **General Interior Repairs**
